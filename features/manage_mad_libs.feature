@@ -24,9 +24,9 @@ Feature: Manage mad_libs
       the @javascript tag to make the features pass)
     * Anything else awesome above and beyond passing the tests
 
-  Feel free to ask questions, especially related to getting your
-  environment set up. Questions about implementation may not
-  necessarily be answered ;) Just email josh@optoro.com
+  Feel free to ask questions, especially related to getting your environment
+  set up. Questions about implementation may not necessarily be answered ;)
+  Just email Brad Herrup at bherrup@optoro.com
 
   Good luck!
 
