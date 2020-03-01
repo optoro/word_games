@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '5.1.4'
+gem 'rails', '>=5'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -9,6 +9,7 @@ gem 'sqlite3'
 gem 'haml'
 gem 'listen'
 gem "rake", ">= 12.3.3"
+gem "actionview", ">= 5.1.6.2"
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
