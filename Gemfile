@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '>=5'
+gem 'rails', '>=6'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -47,7 +47,8 @@ group :test do
   gem 'cucumber-rails'
   gem 'database_cleaner'
   gem 'guard-cucumber'
+  gem 'guard-compat'
   gem 'rspec-rails'
-  gem 'factory_girl_rails'
+  gem 'factory_bot'
   gem 'test-unit'
 end
