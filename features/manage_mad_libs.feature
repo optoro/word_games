@@ -17,8 +17,7 @@ Feature: Manage mad_libs
     * Passing more than the model-level Scenarios (remove the @wip tags)
     * Finding and using the helper tools we've included in this 
       application stub.
-    * Deploying the resultant app on heroku or (for more points) 
-      Amazon's EC2.
+    * Deploying the resultant app on heroku.
     * Making it look pretty
     * Making use of ajax (you may need to annotate these Scenarios with 
       the @javascript tag to make the features pass)
